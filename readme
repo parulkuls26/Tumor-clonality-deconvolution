@@ -1,6 +1,7 @@
 Tumor Clonality deconvolution
 
-The RNotebook html file with codes and outputs can be accessed here
+The RNotebook html file with codes and outputs can be accessed here https://parulkuls26.github.io/Tumor-clonality-deconvolution/tumor-clonality-deconvolution.html
+
 
 Overview
 This project investigates tumour clonality using variant allele frequency (VAF)–based clustering of somatic SNVs from the LU-4 tumour sample. Because only SNV data were provided (without copy number segmentation, B-allele frequency, tumour purity, or ploidy information), tumour evolution was inferred using:
